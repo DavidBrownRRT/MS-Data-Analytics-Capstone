@@ -1,2 +1,2 @@
-# MIS581
+# MIS581 Data Analytics Capstone
 Portfolio Project
